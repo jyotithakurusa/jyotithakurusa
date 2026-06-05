@@ -2,7 +2,7 @@
 
 ### Software Engineer | Full Stack & Cloud (AWS) | MS @ Trine University
 
-Software engineer with **4+ years of professional experience** in India (Ericsson, Outwit Bright), now pursuing a **Master of Science in Information Systems at Trine University, USA**.
+Software engineer with **10+ years of professional experience** in India , now completed a **Master of Science in Information Systems at Trine University, USA**.
 
 I build production web applications across React, TypeScript, Node.js, and Java / Spring Boot — and I'm currently going deep on AWS to round out my full-stack skills with cloud engineering depth.
 
@@ -34,4 +34,4 @@ I build production web applications across React, TypeScript, Node.js, and Java 
 - Location: USA (Open to Relocate)
 
 > Currently open to **full-stack, backend, and cloud engineering opportunities** in the US.  
-> **F-1 CPT** — eligible to work immediately, no immediate sponsorship needed.
+
